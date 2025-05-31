@@ -1,0 +1,11 @@
+agno
+openai
+jupyter
+ipykernel 
+azure-ai-inference 
+aiohttp
+pypdf
+lancedb
+arxiv
+bs4
+aiofiles
