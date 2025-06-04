@@ -28,3 +28,16 @@ In this datathon we explore what LLMs can do and how to apply them on real-world
 * Familiarity with machine learning concepts (not required but recommended)
 
 Please install Python >= 3.8 and the openai package using pip.
+
+## Installation Instructions
+# Clone the repository
+git clone git@github.com:JRC-COMBINE/CCLS-Datathon-2025.git
+cd CCLS-Datathon-2025
+    
+# Create and activate a virtual environment
+conda create --name CCLS_LLM_Workshop
+conda activate CCLS_LLM_Workshop
+
+# Upgrade pip and install dependencies
+pip install --upgrade pip
+pip install -r requirements.txt
