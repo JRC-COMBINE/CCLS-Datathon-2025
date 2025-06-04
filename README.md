@@ -31,13 +31,18 @@ Please install Python >= 3.8 and the openai package using pip.
 
 ## Installation Instructions <br>
 # Clone the repository <br>
+"""
 git clone git@github.com:JRC-COMBINE/CCLS-Datathon-2025.git <br>
 cd CCLS-Datathon-2025 <br>
-    
+"""    
 # Create and activate a virtual environment <br>
+"""
 conda create --name CCLS_LLM_Workshop <br>
 conda activate CCLS_LLM_Workshop <br>
+"""
 
 # Upgrade pip and install dependencies <br>
+"""
 pip install --upgrade pip <br>
 pip install -r requirements.txt <br>
+"""
